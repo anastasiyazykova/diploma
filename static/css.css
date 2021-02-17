@@ -1,0 +1,21 @@
+.value {
+	width: 95%;
+    height: 30px;
+    font-size: 20px;
+    font-family: cursive;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.name {
+	font-size: 20px;
+    font-family: monospace;
+    display: block;
+}
+
+.submit {
+	font-size: 40px;
+    font-family: fantasy;
+    background-color: #daa142;
+    padding: 40px;
+}
